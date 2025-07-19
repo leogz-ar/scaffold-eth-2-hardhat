@@ -67,7 +67,6 @@ npx hardhat coverage
 ### 📈 **Ejemplo de Coverage**
 
 > **Tip:** Lo más importante es el porcentaje de líneas (`% Lines`).  
-> Aunque `% Branch` sea bajo, si `% Lines` está arriba del 50% tu proyecto está cubierto para la mayoría de los cursos y entregas.
 
 ![Coverage Example](./coverage.png)
 
