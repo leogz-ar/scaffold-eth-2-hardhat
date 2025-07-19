@@ -1,7 +1,7 @@
 
 # SimpleSwap Dapp — Scaffold-ETH 2
 
-> Proyecto de ejemplo: Liquidez y Swap de tokens ERC20 sobre Scaffold-ETH 2  
+> Proyecto de ejemplo: Smart Contract SimpleSwap de tokens ERC20 sobre Scaffold-ETH 2  
 > ⚡️ Desarrollado por [Leandro Gómez](https://github.com/leogz-ar)
 
 ---
